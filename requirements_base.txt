@@ -1,0 +1,10 @@
+tensorboard==2.3.0
+pytorch-ignite==0.4.*
+matplotlib
+numpy
+Pillow
+scikit-image
+scikit-learn
+scipy
+tqdm
+wrapt
